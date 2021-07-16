@@ -3,5 +3,6 @@
 </a>
 <hr>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EryBkr)](https://github.com/anuraghazra/github-readme-stats)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+
 
